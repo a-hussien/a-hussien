@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js**
 
-- 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio])
+<!-- - 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio]) -->
 
 - 📝 I regularly write articles on [https://dev.to/ahussien](https://dev.to/ahussien)
 
