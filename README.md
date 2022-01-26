@@ -7,9 +7,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio]) -->
 
-- 📝 I regularly read articles on [https://dev.to/ahussien](https://dev.to/ahussien)
+- 📝 I regularly read articles on **[https://dev.to/](https://dev.to/), FreeCodeCamp.org**
 
-- 💬 Ask me about **PHP, Laravel, React**
+- 💬 Ask me about **PHP, Laravel, MySQL**
 
 - 📫 How to reach me **a.hussien87@gmail.com**
 
