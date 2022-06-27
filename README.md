@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tenders Management web App**
 
-- 🌱 I’m currently learning **Web Socket, tensorflow**
+- 🌱 I’m currently learning **GraphQl, Web Socket, tensorflow**
 
 <!-- - 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio]) -->
 
