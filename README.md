@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Tenders Management web App**
 
-- 🌱 I’m currently learning **GraphQl, Web Socket, tensorflow**
+- 🌱 I’m currently learning **GraphQl, Web Socket, Tensorflow**
 
 <!-- - 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio]) -->
 
-- 📝 I regularly read articles on **[dev.to](https://dev.to/), [FreeCodeCamp](https://forum.freecodecamp.org/)**
+- 📝 I regularly read articles on **[dev.to](https://dev.to/), [Laravel News](https://laravel-news.com, [FreeCodeCamp](https://forum.freecodecamp.org/)**
 
 - 💬 Ask me about **PHP, Laravel, MySQL**
 
