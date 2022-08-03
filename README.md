@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hussein</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Tenders Management web App**
+- 🔭 I’m currently working on **(SuperStore) web based app which manage and track Inventory|Store Assests , SuperState RealState web application**
 
 - 🌱 I’m currently learning **GraphQl, Web Socket, Tensorflow**
 
