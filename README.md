@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **(SuperStore) web based app which manage and track Inventory|Store Assests , SuperState RealState web application**
 
-- 🌱 I’m currently learning **GraphQl, Web Socket, Tensorflow**
+- 🌱 I’m currently learning **TypeScript, Web Socket**
 
 <!-- - 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio]) -->
 
