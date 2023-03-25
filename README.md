@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hussein</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🔭 I’m currently working on **(SuperStore) web based app which manage and track inventory and store assests**
+- 🔭 I’m currently working on **(SuperStore) web based app which manage and track inventory and store assets**
 
 - 🌱 I’m currently learning **TypeScript, Web Socket**
 
@@ -9,9 +9,9 @@
 
 - 📝 I regularly read articles on **[dev.to](https://dev.to/), [Laravel News](https://laravel-news.com), [FreeCodeCamp](https://forum.freecodecamp.org/)**
 
-- 💬 Ask me about **PHP, Laravel, MySQL**
+- 💬 Ask me about **PHP, Laravel, MySQL, React**
 
-- 📫 How to reach me **a.hussien87@gmail.com**
+- 📫 How to reach me **dev.ahussein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
