@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Web Socket**
 
-<!-- - 👨‍💻 All of my projects are available at [[My Portfolio]]([My Portfolio]) -->
+- 👨‍💻 Have a look at my [Personal website](https://a-hussein.netlify.app/)
 
 - 📝 I regularly read articles on **[dev.to](https://dev.to/), [Laravel News](https://laravel-news.com), [FreeCodeCamp](https://forum.freecodecamp.org/)**
 
