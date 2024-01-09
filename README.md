@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hussein</h1>
 <h3 align="center">A passionate web developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Expenses Tracker: web based app which manage different type of monthly expenses**
+- 🔭 I’m currently working on **Expenses Tracker: web-based app which manages different type of monthly expenses**
 
-- 🌱 I’m currently learning **TypeScript, Web Socket**
+- 🌱 I’m currently learning **HTMX**
 
 - 👨‍💻 Have a look at my [Personal website](https://a-hussein.netlify.app/)
 
