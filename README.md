@@ -157,25 +157,18 @@ Available for exciting projects.
 
 # GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=a-hussien&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=a-hussien&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Contribution Graph
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" style="padding-right: 16px;">
+      <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=a-hussien&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+    </td>
+    <td align="center" valign="top" style="padding-left: 16px;">
+      <img src="https://streak-stats.demolab.com?user=a-hussien&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+</div>
 
 <p align="center">
 
@@ -254,4 +247,3 @@ Available for exciting projects.
 </p>
 
 [![@ahussien's Holopin board](https://holopin.me/ahussien)](https://holopin.io/@ahussien)
-
