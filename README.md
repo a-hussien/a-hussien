@@ -42,7 +42,6 @@ Next.js
 Node.js
 Docker
 Python
-Rust (learning)
 AI
 Cloud
 Automation
@@ -146,12 +145,26 @@ Available for exciting projects.
 
 # Currently Learning
 
-- Rust
 - Kubernetes
 - AI Engineering
 - Event Streaming
 - Distributed Systems
 - Observability
+
+---
+
+# Development Philosophy
+
+> Write code that is:
+
+- Clean
+- Secure
+- Scalable
+- Maintainable
+- Tested
+- Documented
+- Observable
+- Production Ready
 
 ---
 
@@ -172,78 +185,36 @@ Available for exciting projects.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=a-hussien&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# Contributions Snake
-
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/a-hussien/a-hussien/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
----
+<p align="center">
 
-# Development Philosophy
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a-hussien&theme=tokyo-night&hide_border=true"/>
 
-> Write code that is:
+</p>
 
-- Clean
-- Secure
-- Scalable
-- Maintainable
-- Tested
-- Documented
-- Observable
-- Production Ready
+[![@ahussien's Holopin board](https://holopin.me/ahussien)](https://holopin.io/@ahussien)
 
 ---
 
-# Featured Expertise
-
-✅ Laravel Applications
-
-✅ REST API Design
-
-✅ GraphQL APIs
-
-✅ SOAP Integrations
-
-✅ Browser Automation
-
-✅ Web Scraping
-
-✅ GIS Applications
-
-✅ Docker Infrastructure
-
-✅ Cloud Deployments
-
-✅ AI Automation
-
----
 
 # Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/ahmed-hussien87" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ahmed-hussien87" />
+<a href="https://linkedin.com/in/ahmed-hussien87" target="_blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="ahussien-linkedin-profile" />
 </a>
 <a href="https://github.com/a-hussien">
 <img align="center" src="https://skillicons.dev/icons?i=github" alt="ahussien"/>
 </a>
-<a href="https://dev.to/ahussien" target="blank">
+<a href="https://dev.to/ahussien" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=devto" alt="ahussien" />
 </a>
-<a href="https://a-hussein.netlify.app">
+<a href="https://a-hussein.netlify.app" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ahussien website"/>
 </a>
 
 </p>
-
-[![@ahussien's Holopin board](https://holopin.me/ahussien)](https://holopin.io/@ahussien)
